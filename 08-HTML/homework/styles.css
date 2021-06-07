@@ -1,6 +1,9 @@
-body {background-image: url("https://tse2.mm.bing.net/th?id=OIP.1uRKjA8Zb5ZcC2FpUuxSeQHaEo");}
+body {background-image: url("https://tse2.mm.bing.net/th?id=OIP.1uRKjA8Zb5ZcC2FpUuxSeQHaEo");  background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
 h1 {color:#5ac09e;}
 img {width:400px;}
 #thirdDiv {height:600px; width:500px; background:rgb(44, 97, 149); padding: 50px; border: 2px; border-color:cadetblue;}
 .spanId {font-size: 18px; margin: 50px;}
-p {background-color: deeppink;}
+.flexContainer {display: flex; height: 1500px; flex-direction: row; justify-content: center; align-items: center;}
